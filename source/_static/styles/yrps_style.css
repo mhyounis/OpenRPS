@@ -1,0 +1,32 @@
+.wy-nav-side {
+    background: #343131;
+}
+
+.wy-side-nav-search {
+    background: #343131;
+}
+
+.wy-menu-vertical {
+    background: #343131;
+}
+
+/* Vertical bar in the Lionbolt blue color */
+.vbarlb {
+    border-left: 3px solid #1e407c; /* Consider the ligher option #009cde */
+    padding-left: 0.5em;
+    margin-left: 2em;
+    margin-top: -1em;
+    margin-bottom: 0em;
+}
+
+/* Vertical bar in the YRPS deep green color */
+.vbaryrps {
+    border-left: 3px solid #0eb861ff;
+    padding-left: 0.5em;
+    margin-left: 2em;
+    margin-top: -1em;
+    margin-bottom: 0em;
+}
+
+/* Deep purple color */
+/* #bf0040 */
