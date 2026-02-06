@@ -1,7 +1,7 @@
 Output
 ======
 
-A single Lionbolt solve puts out two files: a 'standard out' file (:mod:`.out <.out>`) file and an HDF5 file (:mod:`.h5 <.h5>`) file. These files are named and located according to the user input file. For instance, if the user's input file is :mod:`mysolve.in`, the outputs will be named :mod:`mysolve.out` and :mod:`mysolve.h5`. The contents of these files are described below.
+A single Lionbolt solve puts out two files: a 'standard out' file (``.out <.out>``) file and an HDF5 file (``.h5 <.h5>``) file. These files are named and located according to the user input file. For instance, if the user's input file is ``mysolve.in``, the outputs will be named ``mysolve.out`` and ``mysolve.h5``. The contents of these files are described below.
 
 The Standard Out File
 ---------------------

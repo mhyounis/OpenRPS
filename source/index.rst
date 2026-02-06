@@ -34,7 +34,7 @@ OpenRPS Documentation
 
 .. container:: vbartd
     
-    A Python module which can extract, process, and plot the .h5 files put out by Lionbolt.
+    A Python module which provides tools to extract and post-process Lionbolt data.
 
 More information on these projects is provided in their respective pages
 
@@ -52,4 +52,4 @@ Projects
 Contact
 -------
 
-I am always interested in discussing OpenRPS. I can be reached at myounis@terpmail.umd.edu.
+I am always interested in discussing OpenRPS. I can be reached at myounis@umd.edu.
