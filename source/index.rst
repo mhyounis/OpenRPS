@@ -1,43 +1,55 @@
-Younis Radiation Physics Suite
-==============================
+OpenRPS Documentation
+=====================
 
-The Younis Radiation Physics Suite (YRPS) is a collection of codes that are focused on, at the moment, radiation transport. It consists of three major codes: 
+|
 
-:ref:`Lionbolt <lionbolt>`
+.. image:: _static/assets/logos/OpenRPS.png
+    :width: 100%
 
-.. container:: vbaryrps
+|
+
+.. container:: hbarorps
     
-    A Fortran program which can perform deterministic space-angle solves of the Boltzmann transport equation.
+    Open Radiation Physics Suite (OpenRPS) is a collection of projects that are focused on, at the moment, radiation transport. It currently consists of three major projects: 
 
-:ref:`NittanyPhysics <nittanyphysics>`
+.. image:: _static/assets/logos/Lionbolt.png
+    :width: 50%
+    :target: Lionbolt/Lionbolt.html
 
-.. container:: vbaryrps
+.. container:: vbarlb
     
-    A Fortran library which discretizes the physics of photons and electrons (at the moment exclusively) under the multigroup approximation.
+    A program which can perform deterministic space-angle solves of the Boltzmann transport equation. Primarily written in Fortran.
 
-:ref:`Terpdose <terpdose>`
+.. image:: _static/assets/logos/NittanyPhysics.png
+    :width: 80%
+    :target: NittanyPhysics/NittanyPhysics.html
 
-.. container:: vbaryrps
+.. container:: vbarnp
+    
+    A library which discretizes the physics of photons and electrons (at the moment exclusively under the multigroup approximation). Primarily written in Fortran.
+
+.. image:: _static/assets/logos/Terpdose.png
+    :width: 55%
+    :target: Terpdose/Terpdose.html
+
+.. container:: vbartd
     
     A Python module which can extract, process, and plot the .h5 files put out by Lionbolt.
 
-More information on these codes is provided in their respective pages
+More information on these projects is provided in their respective pages
 
-.. Example of how to include an image:
-.. .. image:: _static/assets/images/1.png
-    
-Contact
--------
-
-I am always interested in discussing the codes included in YRPS. I can be reached at myounis@terpmail.umd.edu.
-
-Contents
+Projects
 ========
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     
+    About/About
     Lionbolt/Lionbolt
     NittanyPhysics/NittanyPhysics
     Terpdose/Terpdose
 
+Contact
+-------
+
+I am always interested in discussing OpenRPS. I can be reached at myounis@terpmail.umd.edu.

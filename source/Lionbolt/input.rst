@@ -7,9 +7,10 @@ The Lionbolt input file is intended to be structured with some degree of freedom
 
 Note the following generally:
 
-- The input file is case insensitive
-- Use # to make a comment in the input file
-- Blank lines are not read, anywhere
+- The input file is case insensitive.
+- Use # to make a comment in the input file.
+- Blank lines are not read, anywhere.
+- The number of spaces/tabs following a key does not matter.
 
 In the following guide, the keys which activate some option are listed first like :mod:`KEY`, but if the key demands variable inputs then they are listed afterwards like :mod:`val1 val2 val3`, then formatted like :mod:`KEY` :mod:`val1 val2 val3`. If the other inputs are fixed options, they will be denoted like :mod:`[ opt1 | opt2 | opt 3 ]`. Required options are designated with ``REQUIRED``. Options that are required depending on a particular option are designated like ``REQUIRED : PROBLEM GENERAL``.
 

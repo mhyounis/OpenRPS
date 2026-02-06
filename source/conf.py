@@ -9,7 +9,7 @@ import sys
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Younis Radiation Physics Suite'
+project = 'OpenRPS'
 copyright = '2026, Muhsin H. Younis'
 author = 'Muhsin H. Younis'
 release = '0.1'
@@ -37,6 +37,6 @@ autosummary_generate = True
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
-html_logo = '_static/logos/YRPSlogo_opt4_alt1.png'
+html_logo = '_static/assets/logos/OpenRPS.png'
 
-html_css_files = ['styles/yrps_style.css']
+html_css_files = ['styles/style.css']

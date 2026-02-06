@@ -1,3 +1,3 @@
-Access the Younis Radiation Physics Suite page at:
+Access the OpenRPS page at:
 
-https://mhyounis.github.io/Younis-Radiation-Physics-Suite/
+https://mhyounis.github.io/Open-RPS/

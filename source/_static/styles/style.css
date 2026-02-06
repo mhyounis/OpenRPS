@@ -1,0 +1,56 @@
+.wy-nav-side {
+    background: #343131;
+}
+
+.wy-side-nav-search {
+    background: #343131;
+}
+
+.wy-menu-vertical {
+    background: #343131;
+}
+
+/* Vertical bar in the OpenRPS deep green color */
+.vbarorps {
+    border-left: 3px solid #0eb861;
+    padding-left: 0.5em;
+    margin-left: 2em;
+    margin-top: -1em;
+    margin-bottom: 0em;
+}
+
+/* Horizontal bar in the OpenRPS deep green color */
+.hbarorps {
+    border-bottom: 3px solid #0eb861;
+    margin-bottom: 2em;
+}
+
+/* Vertical bar in the Lionbolt blue color */
+.vbarlb {
+    border-left: 3px solid #004e6f; /* Consider the ligher option #009cde */
+    padding-left: 0.5em;
+    margin-left: 2em;
+    margin-top: -1em;
+    margin-bottom: 0em;
+}
+
+/* Vertical bar in the NittanyPhysics gray color */
+.vbarnp {
+    border-left: 3px solid #8f8f8f; /* Consider the ligher option #009cde */
+    padding-left: 0.5em;
+    margin-left: 2em;
+    margin-top: -1em;
+    margin-bottom: 0em;
+}
+
+/* Vertical bar in the Terpdose gold color */
+.vbartd {
+    border-left: 3px solid #ffd200; /* Consider the ligher option #009cde */
+    padding-left: 0.5em;
+    margin-left: 2em;
+    margin-top: -1em;
+    margin-bottom: 0em;
+}
+
+/* Deep purple color */
+/* #bf0040 */
