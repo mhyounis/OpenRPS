@@ -4,13 +4,13 @@ OpenRPS Documentation
 |
 
 .. image:: _static/assets/logos/OpenRPS.png
-    :width: 100%
+    :width: 80%
 
 |
 
 .. container:: hbarorps
     
-    Open Radiation Physics Suite (OpenRPS) is a collection of projects that are focused on, at the moment, radiation transport. It currently consists of three major projects: 
+    The Open Radiation Physics Suite (OpenRPS) is a collection of projects that are focused on, at the moment, radiation transport. It currently consists of three major projects: 
 
 .. image:: _static/assets/logos/Lionbolt.png
     :width: 50%
