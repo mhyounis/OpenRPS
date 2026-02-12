@@ -5,6 +5,7 @@ OpenRPS Documentation
 
 .. image:: _static/assets/logos/OpenRPS.png
     :width: 80%
+    :target: About/About.html
 
 |
 
