@@ -35,7 +35,7 @@ OpenRPS Documentation
 
 .. container:: vbartd
     
-    A Python module which provides tools to extract and post-process Lionbolt data.
+    A Python package which provides tools to extract and post-process Lionbolt data.
 
 More information on these projects is provided in their respective pages
 

@@ -3,4 +3,4 @@
 Terpdose
 ========
 
-Terpdose is a python module for post processing Lionbolt data
+Terpdose is a python package for post processing Lionbolt data
