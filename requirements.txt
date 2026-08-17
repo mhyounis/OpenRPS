@@ -1,0 +1,6 @@
+sphinx
+sphinx-rtd-theme
+sphinx-math-dollar
+sphinxcontrib-bibtex
+numpydoc
+Terpdose

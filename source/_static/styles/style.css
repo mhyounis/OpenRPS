@@ -1,0 +1,89 @@
+/* Making table of contents headers stand out more */
+.toctree-wrapper > ul > li > a {
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+
+/* Making the side bar color fit OpenRPS colors better */
+.wy-nav-side {
+    background: #343131;
+}
+
+.wy-side-nav-search {
+    background: #343131;
+}
+
+.wy-menu-vertical {
+    background: #343131;
+}
+
+/* Vertical bar in the OpenRPS deep green color */
+.vbarorps {
+    border-left: 3px solid #0eb861;
+    padding-left: 0.5em;
+    margin-left: 2em;
+    margin-top: -1em;
+    margin-bottom: 0em;
+}
+
+/* Horizontal bar in the OpenRPS deep green color */
+.hbarorps {
+    border-bottom: 3px solid #0eb861;
+    margin-bottom: 2em;
+}
+
+/* Vertical bar in the Lionbolt blue color */
+.vbarlb {
+    border-left: 3px solid #004e6f; /* Consider the ligher option #009cde */
+    padding-left: 0.5em;
+    margin-left: 2em;
+    margin-top: -1em;
+    margin-bottom: 0em;
+}
+
+/* Vertical bar in the NittanyPhysics gray color */
+.vbarnp {
+    border-left: 3px solid #8f8f8f;
+    padding-left: 0.5em;
+    margin-left: 2em;
+    margin-top: -1em;
+    margin-bottom: 0em;
+}
+
+/* Vertical bar in the Terpdose gold color */
+.vbartd {
+    border-left: 3px solid #ffd200;
+    padding-left: 0.5em;
+    margin-left: 2em;
+    margin-top: -1em;
+    margin-bottom: 0em;
+}
+
+/* Deep purple color */
+/* #bf0040 */
+
+.math {
+    text-align: center;
+}
+span.eqno {
+    float: right;
+    position: relative;
+    top: 1em;   /* tweak this value */
+}
+
+/* Autodoc section headings color */
+dl.py.attribute,
+dl.py.method {
+    background-color: #ffffff;
+    border-left: 3px solid #343131;
+    padding: 10px;
+    
+    outline: 1px solid #e2e8f0; 
+    outline-offset: 0px;
+}
+
+.rst-content dl.py.attribute > dt,
+.rst-content dl.py.method > dt {
+    background: #e7f2fa !important;
+    border-left: 3px solid #6ab0de !important;
+}
