@@ -361,6 +361,7 @@ Rather than use Terpdose to generate post-processing quantities like dose, one c
         ENERGY
         DOSE
         CHARGE
+        CURRENT
     END
     
 :mod:`FLUENCE`
@@ -392,6 +393,12 @@ Rather than use Terpdose to generate post-processing quantities like dose, one c
 .. container:: vbarlb
     
     Create and save a charge deposition map.
+
+:mod:`CURRENT`
+
+.. container:: vbarlb
+    
+    Create and save particle current maps for all energies and all particles.
 
 OPTIONS
 ~~~~~~~

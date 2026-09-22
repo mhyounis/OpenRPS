@@ -11,16 +11,16 @@ print("CONF.PY LOADED")
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'OpenRPS'
+project   = 'OpenRPS'
 copyright = '2026, Muhsin H. Younis'
-author = 'Muhsin H. Younis'
-release = '0.1'
+author    = 'Muhsin H. Younis'
+release   = 'v1.0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-templates_path = ['_templates']
-exclude_patterns = []
+templates_path    = ['_templates']
+exclude_patterns  = []
 suppress_warnings = []
 
 sys.path.insert(0, os.path.abspath("."))  # points to source/
@@ -64,7 +64,7 @@ pygments_style = 'vs'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme       = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 html_logo = '_static/assets/logos/OpenRPS.png'
@@ -74,10 +74,8 @@ html_css_files = ['styles/style.css']
 # -- autodoc ------------------------------------------------
 # Added by Muhsin H. Younis, 2026
 numpydoc_class_members_toctree = False
-numpydoc_show_class_members = False
-napoleon_numpy_docstring = True
-autodoc_default_options = {
-    'members': True,
-}
-add_module_names = False
-autodoc_typehints = 'description'
+numpydoc_show_class_members    = False
+napoleon_numpy_docstring       = True
+autodoc_default_options        = { 'members': True, }
+add_module_names               = False
+autodoc_typehints              = 'description'

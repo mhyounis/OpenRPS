@@ -32,7 +32,7 @@ Electron beam normally incident on Al slab, 521 keV
 Electron beam normally incident on Al slab, 6 MV polychromatic spectrum
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: /_static/assets/validation/electrons_incident/Al_521keV_0deg.png
+.. figure:: /_static/assets/validation/electrons_incident/Al_6MV_0deg.png
     :width: 75%
     :align: center
     
@@ -119,7 +119,6 @@ X-ray beam normally incident on Pb slab, 10 MeV
     :align: center
     
     Note, this disagreement is again due to the absence of radiative scattering (Bremsstrahlung) and atomic relaxation mechanisms in NittanyPhysics. These remain WIP but will be validated as soon as possible. 
-
 
 .. bibliography::
     :filter: docname in docnames

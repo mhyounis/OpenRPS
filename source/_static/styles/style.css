@@ -17,7 +17,7 @@
     background: #343131;
 }
 
-/* Vertical bar in the OpenRPS deep green color */
+/* Vertical bar in the OpenRPS text color */
 .vbarorps {
     border-left: 3px solid #0eb861;
     padding-left: 0.5em;
@@ -26,7 +26,7 @@
     margin-bottom: 0em;
 }
 
-/* Horizontal bar in the OpenRPS deep green color */
+/* Horizontal bar in the OpenRPS text color */
 .hbarorps {
     border-bottom: 3px solid #0eb861;
     margin-bottom: 2em;
